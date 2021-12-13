@@ -1,5 +1,5 @@
-### Ola, eu sou Flávio Ferreira
-My name is Flavio Ferreira, and I'm from Brazil (🇧🇷). I am working as mobile project coordinator (React). 
+### Hi, You👋
+My name is **Flavio Ferreira**, and I'm from Brazil (🇧🇷). I am working as mobile project coordinator (React). 
 This year, I am studying Typescript and Solutions Architecture to improvement my knowledges.
 
 🔭 Migrando de Carreira
