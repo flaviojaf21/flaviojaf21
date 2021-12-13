@@ -12,7 +12,7 @@
 <div style="display: inline_block" ><br>
 <img align="center" alt="Flaviojaf21-AWS" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="flaviojaf-GCP" height="30" width="40" src="https://github.com/flaviojaf21/Devicons/blob/main/GCP/google-cloud-platform.svg">
-  <img align="center" alt="flaviojaf-Cloudflare" height="30" width="40" src="https://github.com/flaviojaf21/Devicons/blob/main/Cloudflare/cloudflare-official.svg"> 
+  <img align="center" alt="flaviojaf-Cloudflare" height="30" width="60" src="https://github.com/flaviojaf21/Devicons/blob/main/Cloudflare/cloudflare-official.svg"> 
   <img align="center" alt="Flaviojaf21-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Flaviojaf21-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Flaviojaf21-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
