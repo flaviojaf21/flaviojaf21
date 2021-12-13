@@ -1,7 +1,7 @@
 ### Ola, eu sou Flávio Ferreira
-🔭 Hoje, estou estudando Full Stack
+🔭 Migrando de Carreira
 
-🌱 Principalmente Javascript, TypeScript , React Js, React Native, Solution Architecting , Architecting with Google Compute Engine
+🌱 Hoje, estou estudando principalmente Javascript, TypeScript , React Js, React Native, Solution Architecting , Architecting with Google Compute Engine
 <div align="">
   <a href="https://github.com/flaviojaf21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviojaf21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
