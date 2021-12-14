@@ -2,7 +2,7 @@
 My name is **Flavio Ferreira**, and I'm from Brazil (🇧🇷). I am working as mobile project coordinator (React). 
 This year, I am studying Typescript and Solutions Architecture to improvement my knowledges.
 
-🔭 Migrando de Carreira
+🔭 Changing Area
 
 🌱 Nowadays, I am studying Javascript, TypeScript , React Js, React Native, Solution Architecting , Architecting with Google Compute Engine
 <div align="">
