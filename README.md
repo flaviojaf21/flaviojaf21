@@ -4,7 +4,7 @@ This year, I am studying Typescript and Solutions Architecture to improvement my
 
 🔭 Migrando de Carreira
 
-🌱 Hoje, estou estudando principalmente Javascript, TypeScript , React Js, React Native, Solution Architecting , Architecting with Google Compute Engine
+🌱 Nowadays, I am studying Javascript, TypeScript , React Js, React Native, Solution Architecting , Architecting with Google Compute Engine
 <div align="">
   <a href="https://github.com/flaviojaf21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviojaf21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
