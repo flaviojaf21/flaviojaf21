@@ -1,5 +1,5 @@
 ### Hi, You👋
-My name is **Flavio Ferreira**, and I'm from Brazil (🇧🇷). I am working as mobile project coordinator (React). 
+My name is **Flavio Ferreira**, and I'm from Brazil (🇧🇷). I am working as mobile project coordinator (React Native). 
 This year, I am studying Typescript and Solutions Architecture to improvement my knowledges.
 
 🔭 Changing Area
